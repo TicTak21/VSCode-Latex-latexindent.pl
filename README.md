@@ -8,13 +8,13 @@ Install [VSCode](https://code.visualstudio.com/)
 
 Install [Latex-Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) plugin.
 
-Or install plugin the editor:
+Or install plugin in the editor:
 
 ![](./img/latex-workshop-ext.png)
 
 ## Latex toolbox
 
-[Tex]([https://www.tug.org/texlive/](https://www.tug.org/texlive/)) - Linux
+[Tex](https://www.tug.org/texlive/) - Linux
 
 [MacTeX](https://www.tug.org/mactex/) - MacOS
 
